@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+}
+
+.container {
+    margin: 5rem auto;
+}
+
+
+#lista-spesa{
+    list-style: none;
+    margin: 1rem 0.5rem;
+    
+}
+
+.prodotti-lista {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
